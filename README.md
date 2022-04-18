@@ -2,7 +2,7 @@
 
 A simple web application to fetch the list of issues of a repository from GitHub.
 
-See it live [here](https://niitish.github.io/gh-api/)
+See it live [here](https://niitish.github.io/gh-api/).
 
 ## Instructions to run
 
@@ -18,7 +18,7 @@ See it live [here](https://niitish.github.io/gh-api/)
 
   `npm start`
 
-- Open the browser to http://localhost:3000/
+- Open the browser to http://localhost:3000/gh-api/
 
 ## Behaviour
 
