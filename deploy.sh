@@ -9,6 +9,11 @@ npm run build
 # navigate to build directory
 cd dist
 
+# create robots.txt
+echo "User-agent: *
+Disallow: /" > robots.txt
+
+
 git init
 git checkout main
 git add -A
